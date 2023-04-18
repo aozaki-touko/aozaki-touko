@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+I'm a CS junior student in USTC,learning system and security
+
+
+
+### 🌱 I’m currently learning
+
+- MySQL ![MySQL: 8.0 (shields.io)](https://img.shields.io/badge/MySQL-8.0-blue)
+- Cyber Security :computer:
+- Distributed Computing :computer::computer::computer::computer::computer::computer:
+- Telegram Bot :robot:
+
+
+
