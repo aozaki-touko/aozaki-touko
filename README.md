@@ -31,13 +31,13 @@ I'm a CS junior student in USTC,learning system and security
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-161-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 110.1 kB Used in GitHub's Storage 
+> 📦 110.2 kB Used in GitHub's Storage 
  > 
 > 🏆 13 Contributions in the Year 2023
  > 
@@ -50,21 +50,21 @@ I'm a CS junior student in USTC,learning system and security
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                80 commits          ███████████░░░░░░░░░░░░░░   42.78 % 
-🌆 Daytime                76 commits          ██████████░░░░░░░░░░░░░░░   40.64 % 
-🌃 Evening                31 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+🌞 Morning                81 commits          ███████████░░░░░░░░░░░░░░   43.09 % 
+🌆 Daytime                76 commits          ██████████░░░░░░░░░░░░░░░   40.43 % 
+🌃 Evening                31 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Tuesday                  51 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Wednesday                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Thursday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Friday                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Saturday                 21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Sunday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Monday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Tuesday                  51 commits          ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+Wednesday                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Thursday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Friday                   31 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Saturday                 21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Sunday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
 ```
 
 
@@ -74,24 +74,23 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-JavaScript               1 hr 54 mins        ██████████░░░░░░░░░░░░░░░   41.90 % 
-CSS                      1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   26.82 % 
-HTML                     42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+JavaScript               1 hr 54 mins        ██████████████░░░░░░░░░░░   55.83 % 
+CSS                      37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+HTML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-WebStorm                 3 hrs 55 mins       █████████████████████░░░░   85.97 % 
-VS Code                  38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+WebStorm                 3 hrs 2 mins        ██████████████████████░░░   88.63 % 
+VS Code                  23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 
 🐱‍💻 Projects: 
-catbook-react            2 hrs 36 mins       ██████████████░░░░░░░░░░░   57.29 % 
-weblab                   1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-USTC-Cyber-Security      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-USTC-database-2023       14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+catbook-react            2 hrs 37 mins       ███████████████████░░░░░░   76.40 % 
+weblab                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+USTC-Cyber-Security      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 
 💻 Operating System: 
-Windows                  4 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -111,6 +110,6 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2023 18:40:21 UTC
+ Last Updated on 28/04/2023 18:40:35 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
