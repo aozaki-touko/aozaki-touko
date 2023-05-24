@@ -31,13 +31,13 @@ I'm a CS junior student in USTC,learning system and security
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 124.4 kB Used in GitHub's Storage 
+> 📦 124.6 kB Used in GitHub's Storage 
  > 
 > 🏆 13 Contributions in the Year 2023
  > 
@@ -50,21 +50,21 @@ I'm a CS junior student in USTC,learning system and security
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                89 commits          ███████████░░░░░░░░░░░░░░   43.63 % 
-🌆 Daytime                81 commits          ██████████░░░░░░░░░░░░░░░   39.71 % 
-🌃 Evening                34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌞 Morning                89 commits          ███████████░░░░░░░░░░░░░░   43.20 % 
+🌆 Daytime                83 commits          ██████████░░░░░░░░░░░░░░░   40.29 % 
+🌃 Evening                34 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Tuesday                  56 commits          ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-Wednesday                23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Thursday                 20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Friday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Saturday                 27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Sunday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Monday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Tuesday                  56 commits          ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+Wednesday                25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Thursday                 20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Friday                   32 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Saturday                 27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Sunday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 ```
 
 
@@ -74,23 +74,22 @@ Sunday                   20 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-C++                      14 hrs 11 mins      ██████████████████████░░░   87.63 % 
-Text                     1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+C++                      12 hrs 55 mins      ████████████████████░░░░░   80.15 % 
+Python                   2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Text                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 12 mins      █████████████████████████   100.00 % 
-GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+VS Code                  16 hrs 6 mins       █████████████████████████   99.97 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-USTC-AI2023              16 hrs 5 mins       █████████████████████████   99.29 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-blockchainlab2023        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+USTC-AI2023              16 hrs              █████████████████████████   99.28 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Windows                  16 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -110,6 +109,6 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2023 18:40:37 UTC
+ Last Updated on 24/05/2023 18:40:23 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
