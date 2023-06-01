@@ -31,15 +31,15 @@ I'm a CS junior student in USTC,learning system and security
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 124.8 kB Used in GitHub's Storage 
+> 📦 125.0 kB Used in GitHub's Storage 
  > 
-> 🏆 13 Contributions in the Year 2023
+> 🏆 14 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,34 +74,34 @@ Sunday                   20 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-SQL                      4 hrs 26 mins       █████████████░░░░░░░░░░░░   50.06 % 
-C++                      2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.32 % 
-Go                       50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Text                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+SQL                      6 hrs 44 mins       ███████████████░░░░░░░░░░   61.64 % 
+Go                       2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+C++                      1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-DataGrip                 4 hrs 26 mins       █████████████░░░░░░░░░░░░   50.06 % 
-VS Code                  3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.13 % 
-GoLand                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+DataGrip                 6 hrs 44 mins       ███████████████░░░░░░░░░░   61.64 % 
+GoLand                   2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+VS Code                  1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
 
 🐱‍💻 Projects: 
-USTC-database-2023       4 hrs 26 mins       █████████████░░░░░░░░░░░░   50.06 % 
-USTC-AI2023              3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.13 % 
-blockchainlab2023        52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+USTC-database-2023       6 hrs 44 mins       ███████████████░░░░░░░░░░   61.64 % 
+blockchainlab2023        2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+USTC-AI2023              1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
 
 💻 Operating System: 
-Windows                  8 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      6 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+C++                      6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
@@ -111,6 +111,6 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2023 18:40:17 UTC
+ Last Updated on 01/06/2023 18:40:38 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
