@@ -37,7 +37,7 @@ I'm a CS junior student in USTC,learning system and security
 
 **🐱 My GitHub Data** 
 
-> 📦 125.5 kB Used in GitHub's Storage 
+> 📦 125.7 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2023
  > 
@@ -74,23 +74,20 @@ Sunday                   21 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-SQL                      1 hr 31 mins        █████████████░░░░░░░░░░░░   51.10 % 
-Go                       1 hr 22 mins        ███████████░░░░░░░░░░░░░░   45.94 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Markdown                 3 mins              ███████████████████████░░   93.14 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+SQL                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 Editors: 
-DataGrip                 1 hr 35 mins        █████████████░░░░░░░░░░░░   52.84 % 
-GoLand                   57 mins             ████████░░░░░░░░░░░░░░░░░   31.80 % 
-VS Code                  27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+DataGrip                 3 mins              ████████████████████████░   95.95 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 🐱‍💻 Projects: 
-USTC-database-2023       1 hr 35 mins        █████████████░░░░░░░░░░░░   52.84 % 
-blockchainlab2023        1 hr 24 mins        ████████████░░░░░░░░░░░░░   47.08 % 
-AzurLaneAutoScript       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+USTC-database-2023       3 mins              ████████████████████████░   95.95 % 
+AzurLaneAutoScript       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 💻 Operating System: 
-Windows                  2 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -110,6 +107,6 @@ Java                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2023 18:40:30 UTC
+ Last Updated on 13/06/2023 18:40:01 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
