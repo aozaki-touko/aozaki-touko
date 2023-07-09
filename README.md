@@ -31,13 +31,13 @@ I'm a CS junior student in USTC,learning system and security
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 141.8 kB Used in GitHub's Storage 
+> 📦 141.6 kB Used in GitHub's Storage 
  > 
 > 🏆 31 Contributions in the Year 2023
  > 
@@ -74,24 +74,26 @@ Sunday                   22 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   11 hrs 30 mins      █████████████████████████   98.40 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-CSV/TSV                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Python                   9 hrs 52 mins       ████████████████████████░   94.81 % 
+Solidity                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Solidity file            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-PyCharm                  7 hrs 8 mins        ███████████████░░░░░░░░░░   61.07 % 
-VS Code                  4 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   38.93 % 
+PyCharm                  5 hrs 27 mins       █████████████░░░░░░░░░░░░   52.43 % 
+VS Code                  4 hrs 33 mins       ███████████░░░░░░░░░░░░░░   43.69 % 
+GoLand                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🐱‍💻 Projects: 
-USTC-AI2023              10 hrs 41 mins      ███████████████████████░░   91.35 % 
-USTC_AI2023              50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+USTC-AI2023              9 hrs 1 min         ██████████████████████░░░   86.54 % 
+USTC_AI2023              50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+blockchainlab2023        24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 USTC-database-2023       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  11 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -111,6 +113,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2023 18:41:49 UTC
+ Last Updated on 09/07/2023 18:41:54 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
