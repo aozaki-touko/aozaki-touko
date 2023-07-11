@@ -37,7 +37,7 @@ I'm a CS junior student in USTC,learning system and security
 
 **🐱 My GitHub Data** 
 
-> 📦 141.8 kB Used in GitHub's Storage 
+> 📦 141.6 kB Used in GitHub's Storage 
  > 
 > 🏆 31 Contributions in the Year 2023
  > 
@@ -74,26 +74,23 @@ Sunday                   22 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   9 hrs 52 mins       ████████████████████████░   94.81 % 
-Solidity                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-Solidity file            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Python                   3 hrs 12 mins       ██████████████████████░░░   88.81 % 
+Solidity                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Solidity file            6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 27 mins       █████████████░░░░░░░░░░░░   52.43 % 
-VS Code                  4 hrs 33 mins       ███████████░░░░░░░░░░░░░░   43.69 % 
-GoLand                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+VS Code                  3 hrs 11 mins       ██████████████████████░░░   88.33 % 
+GoLand                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-USTC-AI2023              9 hrs 1 min         ██████████████████████░░░   86.54 % 
-USTC_AI2023              50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-blockchainlab2023        24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-USTC-database-2023       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+USTC-AI2023              3 hrs 12 mins       ██████████████████████░░░   88.81 % 
+blockchainlab2023        24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 
 💻 Operating System: 
-Windows                  10 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -113,6 +110,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2023 18:44:17 UTC
+ Last Updated on 11/07/2023 18:43:41 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
