@@ -37,7 +37,7 @@ I'm a CS junior student in USTC,learning system and security
 
 **🐱 My GitHub Data** 
 
-> 📦 141.7 kB Used in GitHub's Storage 
+> 📦 141.9 kB Used in GitHub's Storage 
  > 
 > 🏆 31 Contributions in the Year 2023
  > 
@@ -74,23 +74,17 @@ Sunday                   22 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Solidity                 13 mins             █████████████░░░░░░░░░░░░   51.69 % 
-Solidity file            6 mins              ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
-Text                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Python                   2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-GoLand                   24 mins             ███████████████████████░░   91.78 % 
-VS Code                  2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-blockchainlab2023        24 mins             ███████████████████████░░   91.78 % 
-USTC-AI2023              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-LegalPorno               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+USTC-AI2023              1 min               █████████████████████░░░░   85.65 % 
+LegalPorno               0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -110,6 +104,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2023 18:41:45 UTC
+ Last Updated on 16/07/2023 18:41:45 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
