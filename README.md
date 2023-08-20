@@ -74,22 +74,22 @@ Sunday                   22 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-C                        3 hrs 34 mins       ██████████████████░░░░░░░   71.96 % 
-C++                      59 mins             █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Makefile                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Perl                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Assembly                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+C                        2 hrs 25 mins       ███████████████░░░░░░░░░░   61.87 % 
+C++                      1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+Makefile                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Assembly                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-xv6-labs-2020            3 hrs 59 mins       ████████████████████░░░░░   80.14 % 
-lc                       59 mins             █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+xv6-labs-2020            2 hrs 45 mins       ██████████████████░░░░░░░   70.43 % 
+lc                       1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   29.57 % 
 
 💻 Operating System: 
-Linux                    3 hrs 59 mins       ████████████████████░░░░░   80.14 % 
-Windows                  59 mins             █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Linux                    2 hrs 45 mins       ██████████████████░░░░░░░   70.43 % 
+Windows                  1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   29.57 % 
 ```
 
 **I Mostly Code in C++** 
@@ -109,6 +109,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2023 18:40:27 UTC
+ Last Updated on 20/08/2023 18:40:09 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
