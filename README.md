@@ -74,25 +74,24 @@ Sunday                   22 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-C                        2 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   38.79 % 
-C++                      2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.63 % 
-Other                    1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-XML                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+C                        2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   43.68 % 
+C++                      1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   30.46 % 
+Other                    1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cs                       3 hrs 31 mins       █████████████░░░░░░░░░░░░   51.27 % 
-lc                       2 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.94 % 
-USTC_WebLab_23Fa         18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-CodeBERT                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-stu                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+cs                       3 hrs 31 mins       ██████████████░░░░░░░░░░░   57.73 % 
+lc                       2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.05 % 
+CodeBERT                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+stu                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 💻 Operating System: 
-Windows                  6 hrs 17 mins       ███████████████████████░░   91.58 % 
-Linux                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Windows                  5 hrs 31 mins       ███████████████████████░░   90.52 % 
+Linux                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 ```
 
 **I Mostly Code in C++** 
@@ -112,6 +111,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2023 18:40:27 UTC
+ Last Updated on 13/11/2023 18:41:33 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
