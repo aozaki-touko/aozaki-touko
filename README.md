@@ -31,7 +31,7 @@ I'm a CS junior student in USTC,learning system and security
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,25 +74,24 @@ Sunday                   22 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-C++                      2 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.63 % 
-C                        1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-LLVM                     1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+C                        1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.90 % 
+C++                      1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+LLVM                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Python                   39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Other                    36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hw_cloud_kernel          2 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   39.63 % 
-cs                       2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.03 % 
-lc                       1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-CodeBERT                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-stu                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+cs                       2 hrs 19 mins       ███████████░░░░░░░░░░░░░░   44.91 % 
+lc                       1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+CodeBERT                 55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+hw_cloud_kernel          42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 
 💻 Operating System: 
-Windows                  3 hrs 55 mins       ██████████████░░░░░░░░░░░   55.68 % 
-Linux                    3 hrs 7 mins        ███████████░░░░░░░░░░░░░░   44.32 % 
+Windows                  3 hrs 32 mins       █████████████████░░░░░░░░   68.46 % 
+Linux                    1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   31.54 % 
 ```
 
 **I Mostly Code in C++** 
@@ -112,6 +111,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2023 18:43:11 UTC
+ Last Updated on 22/11/2023 18:41:18 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
