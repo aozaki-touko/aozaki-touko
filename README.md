@@ -74,23 +74,21 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   3 hrs 3 mins        ██████████████████████░░░   87.56 % 
-Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-C                        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Python                   3 hrs 1 min         ██████████████████████░░░   87.44 % 
+Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+C                        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 29 mins       █████████████████████████   100.00 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-USTC-Privacy2023         2 hrs 45 mins       ████████████████████░░░░░   79.03 % 
-LeetCode-record          43 mins             █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-USTC_WebLab_23Fa         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+USTC-Privacy2023         2 hrs 45 mins       ████████████████████░░░░░   79.79 % 
+LeetCode-record          41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
 
 💻 Operating System: 
-Windows                  3 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -110,6 +108,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2024 18:41:54 UTC
+ Last Updated on 18/01/2024 18:42:40 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
