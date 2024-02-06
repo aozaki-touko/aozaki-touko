@@ -31,13 +31,15 @@ I'm a CS junior student in USTC,learning system and security
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 1 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,18 +74,18 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   28 mins             ██████████████████████░░░   88.64 % 
-Text                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Python                   51 mins             ███████████████████████░░   93.16 % 
+Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+VS Code                  55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LeetCode-record          28 mins             ██████████████████████░░░   88.64 % 
-intern                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+LeetCode-record          51 mins             ███████████████████████░░   93.16 % 
+intern                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -103,6 +105,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2024 18:40:42 UTC
+ Last Updated on 06/02/2024 18:40:08 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
