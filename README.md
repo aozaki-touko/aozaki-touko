@@ -31,7 +31,7 @@ I'm a CS junior student in USTC,learning system and security
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -39,7 +39,7 @@ I'm a CS junior student in USTC,learning system and security
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2024
+> 🏆 2 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,35 +74,35 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   2 hrs 26 mins       ███████████████░░░░░░░░░░   60.81 % 
-JSON                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Text                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-CSV                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Python                   2 hrs 6 mins        █████████████░░░░░░░░░░░░   52.00 % 
+Text                     38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+JSON                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+CSV                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 
 🔥 Editors: 
-VS Code                  4 hrs               █████████████████████████   100.00 % 
+VS Code                  4 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Llama-Chinese            3 hrs 15 mins       ████████████████████░░░░░   81.41 % 
-LeetCode-record          22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-CodeBERT                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-mhw mod                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-llama                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Llama-Chinese            3 hrs 38 mins       ██████████████████████░░░   89.63 % 
+CodeBERT                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+mhw mod                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+LeetCode-record          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+llama                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Linux                    3 hrs 30 mins       ██████████████████████░░░   87.78 % 
-Windows                  29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Linux                    3 hrs 53 mins       ████████████████████████░   95.91 % 
+Windows                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 ```
 
 **I Mostly Code in C++** 
 
 ```text
-C++                      7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+C++                      7 repos             ████████░░░░░░░░░░░░░░░░░   31.82 % 
+Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
@@ -112,6 +112,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2024 18:40:10 UTC
+ Last Updated on 16/03/2024 18:41:49 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
