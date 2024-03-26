@@ -74,25 +74,25 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   3 hrs 13 mins       ████████████████░░░░░░░░░   64.67 % 
-JSON                     1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-CSV                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Python                   3 hrs 13 mins       ████████████████░░░░░░░░░   64.98 % 
+JSON                     1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+CSV                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LLaMA-Factory-main       3 hrs 16 mins       ████████████████░░░░░░░░░   65.58 % 
-Llama-Chinese            1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   32.36 % 
-CodeBERT                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-LeetCode-record          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+LLaMA-Factory-main       3 hrs 16 mins       █████████████████░░░░░░░░   66.01 % 
+Llama-Chinese            1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   32.06 % 
+CodeBERT                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+LeetCode-record          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+thesis                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    4 hrs 58 mins       █████████████████████████   99.53 % 
-Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Linux                    4 hrs 56 mins       █████████████████████████   99.68 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 ```
 
 **I Mostly Code in C++** 
@@ -112,6 +112,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2024 18:40:25 UTC
+ Last Updated on 26/03/2024 18:40:11 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
