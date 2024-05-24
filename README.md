@@ -39,7 +39,7 @@ I'm a CS junior student in USTC,learning system and security
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,24 +74,23 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-C++                      6 hrs 32 mins       █████████████░░░░░░░░░░░░   50.05 % 
-Python                   3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-Markdown                 2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Objective-C              53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-C                        12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+C++                      6 hrs 10 mins       ██████████████░░░░░░░░░░░   55.77 % 
+Markdown                 1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Python                   1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Objective-C              53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+C                        12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 55 mins      █████████████████████░░░░   83.64 % 
-Obsidian                 2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+VS Code                  9 hrs 4 mins        █████████████████████░░░░   82.01 % 
+Obsidian                 1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
 
 🐱‍💻 Projects: 
-rtp-llm                  10 hrs 17 mins      ████████████████████░░░░░   78.81 % 
-Unknown Project          2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-work                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-vllm                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+rtp-llm                  8 hrs 43 mins       ████████████████████░░░░░   78.79 % 
+Unknown Project          1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+work                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 💻 Operating System: 
-Windows                  13 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -111,6 +110,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2024 18:41:42 UTC
+ Last Updated on 24/05/2024 18:41:56 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
