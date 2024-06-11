@@ -74,17 +74,17 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   2 hrs 7 mins        █████████████████████████   100.00 % 
+Python                   1 hr 3 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-work                     2 hrs 7 mins        █████████████████████████   99.98 % 
-guoneng                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+work                     1 hr 3 mins         █████████████████████████   99.96 % 
+guoneng                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  2 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -104,6 +104,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2024 18:42:52 UTC
+ Last Updated on 11/06/2024 18:43:37 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
