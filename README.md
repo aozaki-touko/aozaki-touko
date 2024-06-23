@@ -39,6 +39,8 @@ I'm a CS junior student in USTC,learning system and security
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 2 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -72,25 +74,25 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Bash                     78 hrs 57 mins      ████████████████░░░░░░░░░   63.14 % 
-Python                   41 hrs 56 mins      ████████░░░░░░░░░░░░░░░░░   33.55 % 
-JSON                     1 hr 42 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-YAML                     1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Other                    35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Bash                     60 hrs 13 mins      ███████████████░░░░░░░░░░   59.61 % 
+Python                   37 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   36.94 % 
+JSON                     1 hr 37 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+YAML                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Text                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-VS Code                  125 hrs 2 mins      █████████████████████████   100.00 % 
+VS Code                  101 hrs 2 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pytorch_modelzoo         108 hrs 48 mins     ██████████████████████░░░   87.02 % 
-data                     13 hrs 10 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-ai-algo-hub              2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Object-Detection-Convert 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-work                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+pytorch_modelzoo         88 hrs 5 mins       ██████████████████████░░░   87.18 % 
+data                     9 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+ai-algo-hub              2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Object-Detection-Convert 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+work                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Linux                    124 hrs 55 mins     █████████████████████████   99.90 % 
-Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Linux                    100 hrs 55 mins     █████████████████████████   99.87 % 
+Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 
 **I Mostly Code in C++** 
@@ -110,6 +112,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 22/06/2024 18:41:12 UTC
+ Last Updated on 23/06/2024 18:40:52 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
