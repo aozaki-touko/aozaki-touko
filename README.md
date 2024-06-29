@@ -31,15 +31,13 @@ I'm a CS junior student in USTC,learning system and security
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 2 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,24 +72,22 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   22 hrs 13 mins      ████████████████████░░░░░   78.74 % 
-Bash                     3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-YAML                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-XML                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Python                   20 hrs 25 mins      ████████████████████░░░░░   80.50 % 
+Bash                     3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+XML                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 13 mins      █████████████████████████   100.00 % 
+VS Code                  25 hrs 22 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pytorch_modelzoo         22 hrs 7 mins       ████████████████████░░░░░   78.40 % 
-data                     3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-ai-algo-hub              2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-work                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+pytorch_modelzoo         20 hrs 55 mins      █████████████████████░░░░   82.47 % 
+data                     3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+ai-algo-hub              1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 💻 Operating System: 
-Linux                    28 hrs 12 mins      █████████████████████████   99.98 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Linux                    25 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -111,6 +107,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2024 18:42:46 UTC
+ Last Updated on 29/06/2024 18:41:40 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
