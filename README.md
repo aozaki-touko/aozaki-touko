@@ -74,22 +74,22 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   20 hrs 25 mins      ████████████████████░░░░░   80.50 % 
-Bash                     3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-XML                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Python                   19 hrs 11 mins      ████████████████████░░░░░   81.52 % 
+Bash                     3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+YAML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pytorch_modelzoo         20 hrs 55 mins      █████████████████████░░░░   82.47 % 
-data                     3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-ai-algo-hub              1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+pytorch_modelzoo         19 hrs 5 mins       ████████████████████░░░░░   81.13 % 
+data                     3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+ai-algo-hub              1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 💻 Operating System: 
-Linux                    25 hrs 22 mins      █████████████████████████   100.00 % 
+Linux                    23 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -109,6 +109,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2024 18:42:29 UTC
+ Last Updated on 01/07/2024 18:43:07 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
