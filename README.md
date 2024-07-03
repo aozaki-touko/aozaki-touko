@@ -72,21 +72,20 @@ Sunday                   24 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   14 hrs 56 mins      ███████████████████████░░   90.99 % 
-Bash                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   4 hrs 30 mins       ███████████████████████░░   91.12 % 
+Bash                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 25 mins      █████████████████████████   100.00 % 
+VS Code                  4 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pytorch_modelzoo         11 hrs 31 mins      ██████████████████░░░░░░░   70.14 % 
-data                     4 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-ai-algo-hub              35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+data                     3 hrs 38 mins       ██████████████████░░░░░░░   73.57 % 
+pytorch_modelzoo         42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+ai-algo-hub              35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
 
 💻 Operating System: 
-Linux                    16 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    4 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -106,6 +105,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aozaki-touko/aozaki-touko/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2024 18:42:52 UTC
+ Last Updated on 03/07/2024 18:42:08 UTC
 <!--END_SECTION:waka-->
 ![Metrics](https://metrics.lecoq.io/aozaki-touko?template=classic&base.header=0&habits=1&languages=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&fortune=false&config.timezone=Asia%2FHong_Kong)
